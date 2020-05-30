@@ -10309,8 +10309,7 @@ form .row:first-child .floating-label-form-group {
 /* The dots/bullets/indicators */
 .dot {
   cursor: pointer;
-  height: 15px;
-  width: 15px;
+
   margin: 0 2px;
   background-color: #bbb;
   border-radius: 50%;
@@ -10347,4 +10346,12 @@ form .row:first-child .floating-label-form-group {
   to {
     opacity: 1;
   }
+}
+.icon-contact {
+  background-color: #080424;
+  color: white;
+  padding: 20px;
+  font-size: 30px;
+  border-radius: 50%;
+  padding: 8px 15px;
 }
